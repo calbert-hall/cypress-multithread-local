@@ -4,7 +4,7 @@
   "passes": 1,
   "pending": 0,
   "failures": 0,
-  "start": "2022-05-16T17:34:10.294Z",
-  "duration": 20204,
+  "start": "2022-05-16T18:10:05.178Z",
+  "duration": 9897,
   "file": "cypress/integration/examples/ultraFastGrid.spec.js"
 }

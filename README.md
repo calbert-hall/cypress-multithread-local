@@ -1,3 +1,11 @@
+# Multithreading locally w/Cypress 
+We're utilizing the [cypress-parallel](https://www.npmjs.com/package/cypress-parallel) plugin to have each spec file run on a different thread. 
+
+Installation: 
+1. Either set your APPLITOOLS_API_KEY in your environment, or hard-code it in the configuration. 
+2. `npm install` 
+3. `npm run cy:parallel`
+
 # Applitools Tutorial - Cypress
 
 Get started with Applitools Eyes visual testing with this example of using the [Cypress](https://www.cypress.io/) and the [Eyes Cypress SDK](https://www.npmjs.com/package/@applitools/eyes-cypress).

@@ -8,7 +8,7 @@
     "test:ci": "cypress run --browser chrome --headless --spec 'cypress/integration/examples/ultraFastGrid.spec.js'",
     "cypress:open": "cypress open",
     "cy:run": "cypress run",
-    "cy:parallel": "cypress-parallel -s cy:run -t 2 -d 'cypress/integration/examples/' -a '\"--env FIXED_APPLITOOLS_BATCH_ID=testBatchId \"' "
+    "cy:parallel": "cypress-parallel -s cy:run -t 2 -d 'cypress/integration/examples/' "
   },
   "author": "Applitools Team <team@applitools.com> (http://www.applitools.com/)",
   "license": "ISC",

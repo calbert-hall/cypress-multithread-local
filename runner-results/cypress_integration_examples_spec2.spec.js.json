@@ -4,7 +4,7 @@
   "passes": 1,
   "pending": 0,
   "failures": 0,
-  "start": "2022-05-16T17:34:13.214Z",
-  "duration": 18117,
+  "start": "2022-05-16T18:10:05.225Z",
+  "duration": 10467,
   "file": "cypress/integration/examples/spec2.spec.js"
 }
