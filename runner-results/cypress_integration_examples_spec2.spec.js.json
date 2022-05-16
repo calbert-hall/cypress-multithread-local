@@ -1,0 +1,10 @@
+{
+  "suites": 1,
+  "tests": 1,
+  "passes": 1,
+  "pending": 0,
+  "failures": 0,
+  "start": "2022-05-16T17:34:13.214Z",
+  "duration": 18117,
+  "file": "cypress/integration/examples/spec2.spec.js"
+}
